@@ -1,0 +1,51 @@
+ h1{
+border:5px #FFF solid;
+border-width: 5cm;
+background:#fff;
+
+    font-size: 80px;
+    text-align: center;
+    font-family:Bodoni ;    
+
+ }
+
+ p{
+    font-size: 20px;
+    text-align: center;
+    font-family:Didot;
+ }
+
+ h2{
+    font-family:Bodoni; 
+    font-size: 30px;
+    border:5px #FFF solid;
+    background:#fff;
+    text-align: center;
+
+ }
+
+ div{
+     
+    text-align: center;
+
+ }
+
+ ul {
+    text-align: center;
+    list-style: inside;
+    }
+
+body{
+
+    background-color: #dabda2;
+}
+
+h3{
+    text-align: center; 
+    font-size: 30px;
+}
+
+h4{
+    text-align: right;
+    font-size: 30px;   
+}
